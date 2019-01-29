@@ -1,7 +1,7 @@
 {
-  "name": "web-speech-ai",
+  "name": "speech chatbot",
   "version": "1.0.0",
-  "description": "Simple AI Chat Bot Demo with Web Speech API",
+  "description": " AI Chat Bot Demo with Web Speech API",
   "main": "index.js",
   "scripts": {
     "start": "nf start",
